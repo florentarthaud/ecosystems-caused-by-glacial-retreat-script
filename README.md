@@ -5,4 +5,4 @@ These files are provided here as some supplementary material for our paper "Futu
 
 04_R_Deglaciated Area by year was used to calculate dynamic of deglaciated area for each glacier (from RGI01 to RGI19) and all glaciers (called RGI20)
 
-05_realize_fig_png was used to realise every figures and summary tables 
+05_realize_fig_png was used to realise every figures and summary tables (files are available in 06_Supplementary_files_final.zip)
